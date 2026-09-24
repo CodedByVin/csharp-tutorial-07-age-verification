@@ -1,6 +1,6 @@
 # C# Windows Forms: Age Verification
 
-This repository contains the completed source code for Tutorial #6 on my YouTube channel. It demonstrates how to implement input validation, string-to-integer parsing, and conditional verification logic using C# and Windows Forms.
+This repository contains the completed source code for Tutorial #7 on my YouTube channel. It demonstrates how to implement input validation, string-to-integer parsing, and conditional verification logic using C# and Windows Forms.
 
 **📺 Watch the full tutorial here:** (https://www.youtube.com/@CodedByVin).
 
